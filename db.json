@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "European Quest",
+      "countries": 8,
+      "days": 21,
+      "imageUrl": "https://www.worldatlas.com/r/w1200/upload/05/71/c2/shutterstock-713084413.jpg",
+      "imageAlt": "Rear view of modern home with pool",
+      "emissions": 810,
+      "unit": "kg",
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "title": "Autumn Roadtrip",
+      "countries": 1,
+      "days": 14,
+      "imageUrl": "https://media.istockphoto.com/photos/autumn-in-the-white-mountains-of-new-hampshire-picture-id841380450?k=20&m=841380450&s=612x612&w=0&h=-nGxM_v_6DmrM1q1-vS4rGfWeuC8qNuPmzDtMWLyHqs=",
+      "imageAlt": "Autumn Roadtrip",
+      "emissions": 3.56,
+      "unit": "t",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "title": "Diving adventure in Egypt",
+      "countries": 1,
+      "days": 5,
+      "imageUrl": "https://hookedoneverything.com/wp-content/uploads/2015/05/scuba-diving.jpg",
+      "imageAlt": "Rear view of modern home with pool",
+      "emissions": 6.92,
+      "unit": "t",
+      "rating": 4.7
+    }
+  ]
+}
